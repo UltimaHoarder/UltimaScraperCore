@@ -3,7 +3,7 @@ name = "ultima-scraper-core"
 version = "0.1.0"
 description = "Shared dependency-light contracts and primitives for UltimaScraper services."
 readme = "README.md"
-license = "MIT"
+license = "AGPL-3.0-or-later"
 requires-python = ">=3.14,<3.15"
 authors = [
     { name = "UltimaHoarder", email = "21285176+UltimaHoarder@users.noreply.github.com" },
